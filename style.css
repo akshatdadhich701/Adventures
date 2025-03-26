@@ -377,9 +377,7 @@ margin-bottom:5vh;
 }
 
 @media (max-width: 1350px){
-    main{
-        background-color: red;
-    }
+
     nav .menu{
         display: initial;
         right:5vh;
